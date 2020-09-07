@@ -5,6 +5,7 @@ def display_banner():
     print(f'\n {stars} \n {msg} \n {stars}\n' )
 display_banner()
 
+print("Convert the following sentence in to a camelCase")
 
 sentence = "fOnt proCESSOR and ParsER"
 splitSentence = sentence.split()
